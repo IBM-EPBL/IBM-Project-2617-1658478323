@@ -1,0 +1,1 @@
+This folder contains the phishing dataset that is required by the machine learning model.
